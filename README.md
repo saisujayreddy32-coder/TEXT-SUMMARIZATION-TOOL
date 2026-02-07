@@ -22,3 +22,7 @@
 # Pre-trained Model (BART – facebook/bart-large-cnn) – Generates accurate and concise summaries from long text
 
 # Google Colab – Cloud-based development environment used to write, execute, and test the code
+
+# output 
+
+<img width="1886" height="111" alt="Image" src="https://github.com/user-attachments/assets/be6596e6-006c-4182-8cff-519dfd125b31" />
